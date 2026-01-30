@@ -14,7 +14,7 @@ torch==1.13.1
 torchvision==0.14.1
 transformers==4.42.4
 xformers==0.0.16
-safetensors==0.3.3
+safetensors
 diffusers==0.28.2
 sentencepiece==0.1.99
 gradio==4.37.2
